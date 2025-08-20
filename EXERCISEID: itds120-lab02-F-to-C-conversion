@@ -1,0 +1,5 @@
+# YOUR CODE HERE
+F = float(input())
+C = (F - 32) * 5 / 9  
+
+print(f"{round(F, 2)}F is equal to {round(C, 2)}C")
