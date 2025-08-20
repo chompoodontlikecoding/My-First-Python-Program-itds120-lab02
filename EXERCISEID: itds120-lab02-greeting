@@ -1,0 +1,3 @@
+# YOUR CODE HERE
+name = input()
+print(f"Hello {name}!! Have a good day")
