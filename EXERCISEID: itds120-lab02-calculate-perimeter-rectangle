@@ -1,0 +1,6 @@
+# YOUR CODE HERE
+w= float(input())
+h= float(input())
+Perimeter = 2 * (w + h)
+
+print("Perimeter:",  round(Perimeter, 2))
