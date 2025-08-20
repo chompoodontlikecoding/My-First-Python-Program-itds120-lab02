@@ -1,0 +1,8 @@
+# YOUR CODE HERE
+speed = float(input()) #100
+time_minutes = float(input()) #30
+time_hours = time_minutes / 60 #30/60 = 0.5 
+
+distance = (speed * time_hours) #100 * 0.5 = 50
+
+print(distance) 
